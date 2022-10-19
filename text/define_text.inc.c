@@ -5,20 +5,20 @@
 // (this wasn't translated for US, and was removed in EU)
 
 static const u8 Debug0[] = {
-    _("ＳＴＡＧＥ　ＳＥＬＥＣＴ\n"
-      "　つづける？\n"
-      "　１　マウンテン\n"
-      "　２　ファイアーバブル\n"
-      "　３　スノースライダー\n"
-      "　４　ウォーターランド\n"
-      "　　　クッパ１ごう\n"
-      "　もどる")
+_("STAGE SELECT\n"
+       "Continue?\n"
+       " 1 mountain\n"
+       " 2 Fire Bubble\n"
+       " 3 Snow slider\n"
+       " 4 Waterland\n"
+       "　　　Koopa 1 go\n"
+       "Back")
 };
 
 static const u8 Debug1[] = {
-    _("ＰＡＵＳＥ　　　　\n"
-      "　つづける？\n"
-      "　やめる　？")
+    _("PAUSE\n"
+       "Continue?\n"
+       " Stop?")
 };
 
 static const struct DialogEntry debug_text_entry_0 = {
